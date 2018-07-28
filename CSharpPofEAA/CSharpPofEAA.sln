@@ -23,13 +23,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cat09.Session State Pattern
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cat10.Base Patterns", "Cat10.Base Patterns", "{3D592821-B9C1-4901-9637-D0C7A9C36862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction Script", "P01.01.Transaction Script\Transaction Script.csproj", "{C72B8983-DDE0-4F56-9E56-7FF6DE5FC6BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction Script", "Transaction Script\Transaction Script.csproj", "{C72B8983-DDE0-4F56-9E56-7FF6DE5FC6BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain Model", "P01.02.Domain Model\Domain Model.csproj", "{9627E65F-65E9-46DF-B380-580F56E92BFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain Model", "Domain Model\Domain Model.csproj", "{9627E65F-65E9-46DF-B380-580F56E92BFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table Module", "P01.03.Table Module\Table Module.csproj", "{7654D5BE-0CD5-4A63-9599-BC11D909DA28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table Module", "Table Module\Table Module.csproj", "{7654D5BE-0CD5-4A63-9599-BC11D909DA28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service Layer", "P01.04.Service Layer\Service Layer.csproj", "{7883B876-D0BC-463A-8122-B07569C2DA12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service Layer", "Service Layer\Service Layer.csproj", "{7883B876-D0BC-463A-8122-B07569C2DA12}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table Data Gateway", "Table Data Gateway\Table Data Gateway.csproj", "{140408C9-3294-48EF-9F46-FA8CF4F7DD77}"
 EndProject
