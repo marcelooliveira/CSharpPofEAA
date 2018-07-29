@@ -1,4 +1,5 @@
 ﻿Identity Map
+
 Ensures that each object gets loaded only once by keeping every loaded object in a map. Looks up objects using the map when referring to them.
 
 For a full description see P of EAA page 195
